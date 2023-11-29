@@ -4015,7 +4015,7 @@ metalsmith-redirect@^3.0.2:
   dependencies:
     lodash "4.17.15"
 
-metalsmith-sass@^1.5.1:
+metalsmith-sass@^1.7.0:
   version "1.7.0"
   resolved "https://registry.yarnpkg.com/metalsmith-sass/-/metalsmith-sass-1.7.0.tgz#bcef7be679405a416570ab5d90a5deefe5f42053"
   integrity sha512-zM1JhUcKug6IPunD89gQftOuFdyTu+SfoWCFCKEOMo2BuYfshU2yeje1OyWyGFo+zV+HsZVwsVQzoISrM+FX7g==
